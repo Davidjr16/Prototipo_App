@@ -9,4 +9,6 @@ class Fault extends Model
 {
     use HasFactory;
     use HasApiTokens;
+
+    
 }

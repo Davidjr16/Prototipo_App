@@ -9,4 +9,6 @@ class apprentice extends Model
 {
     use HasFactory;
     use HasApiTokens;
+
+    
 }
